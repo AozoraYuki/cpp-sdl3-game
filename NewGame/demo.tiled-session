@@ -1,0 +1,21 @@
+{
+    "activeFile": "demotiles.tsx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "demotiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "openFiles": [
+        "demotiles.tsx"
+    ],
+    "project": "demo.tiled-project",
+    "recentFiles": [
+        "demotiles.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}

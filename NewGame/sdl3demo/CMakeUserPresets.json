@@ -1,0 +1,13 @@
+﻿{
+  "version": 3,
+  "configurePresets": [
+    {
+      "name": "x64-debug-user",
+      "displayName": "x64 Debug (User)",
+      "inherits": "x64-debug",
+      "cacheVariables": {
+        "CMAKE_PREFIX_PATH": "D:\\SDL\\SDL3;D:\\SDL\\SDL3_image-3.2.4;D:\\SDL\\glm-1.0.1-VC"
+      }
+    }
+  ]
+}

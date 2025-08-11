@@ -1,0 +1,3 @@
+C:/Users/Ege/OneDrive/Masaüstü/NewGame/sdl3demo/out/build/x64-debug-user/CMakeFiles/sdl3demo.dir
+C:/Users/Ege/OneDrive/Masaüstü/NewGame/sdl3demo/out/build/x64-debug-user/CMakeFiles/edit_cache.dir
+C:/Users/Ege/OneDrive/Masaüstü/NewGame/sdl3demo/out/build/x64-debug-user/CMakeFiles/rebuild_cache.dir
