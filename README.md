@@ -20,6 +20,11 @@ Originally inspired by a tutorial series, will be extended with custom features,
 - **SDL_mixer**
 - **CMake**
 
+## 📢 Credits
+This project was inspired by the YouTube series *"Making a game from scratch with C/C++, CMake, SDL3, SDL_image, SDL_mixer"* by [constref](https://www.youtube.com/@constref).  
+Original code structure was recreated from scratch and extended with additional features and modifications.
+
+
 ## 🚀 Building and Running
 ```bash
 git clone https://github.com/yourusername/cpp-sdl3-game.git
